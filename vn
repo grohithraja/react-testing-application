@@ -1,0 +1,14 @@
+[1mdiff --git a/src/App.js b/src/App.js[m
+[1mindex 3784575..63fa78b 100644[m
+[1m--- a/src/App.js[m
+[1m+++ b/src/App.js[m
+[36m@@ -6,6 +6,9 @@[m [mfunction App() {[m
+     <div className="App">[m
+       <header className="App-header">[m
+         <img src={logo} className="App-logo" alt="logo" />[m
+[32m+[m[32m        <p>[m
+[32m+[m[32m          Grohith Raja[m
+[32m+[m[32m        </p>[m
+         <p>[m
+           Edit <code>src/App.js</code> and save to reload.[m
+         </p>[m
